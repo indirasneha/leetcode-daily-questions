@@ -1,1 +1,1 @@
-"# LeetCode Daily Questions (Java)" 
+# LeetCode Daily Questions (Java)
